@@ -5,6 +5,8 @@ body{
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    background-color: #414141;
+    color: white;
 }
 
 .container{
@@ -43,4 +45,12 @@ input[type=number]{
     outline: none;
     border: 3px solid;
     border-radius: 5px;
+}
+
+.results{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 40px;
+    color: yellow;
 }
