@@ -54,3 +54,21 @@ input[type=number]{
     padding: 40px;
     color: yellow;
 }
+
+a{
+    text-decoration: none;
+    color: aqua;
+    font-size: 2rem;
+}
+ul{
+    border: 2px solid black;
+    width: 100%;
+    height: auto;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+    margin: 4px;
+
+}
